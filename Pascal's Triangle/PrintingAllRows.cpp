@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time Complexity --> O(n^2)
+// Space Complexity --> O(n^2)
+
 vector<vector<int>> generate(int numRows) {
 
     vector<vector<int>> ans(numRows);
