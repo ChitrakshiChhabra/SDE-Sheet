@@ -2,7 +2,7 @@
 using namespace std;
 
 // Time Complexity --> O(n)
-// Space Complexity --> O(1)
+// Space Complexity -->  O(1)
 
 int maxProfit(vector<int>& prices) {
 
@@ -19,6 +19,6 @@ int maxProfit(vector<int>& prices) {
 int main()
 {
     vector <int> prices = {7, 1, 5, 3, 6, 4};
-    cout << maxProfit(prices) << endl;
+    cout << maxProfit(prices);
     return 0;
 }
