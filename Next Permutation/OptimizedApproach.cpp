@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time Complexity O(n)
+// Space Complexity O(1)
 void swap(int *a, int *b)
 {
     int temp = *a;
