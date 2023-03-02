@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Time Complexity --> O(n^3)
+// Space Complexity --> O(1)
 int fun(vector<int> &nums)
 {
     int maxi = 0;
